@@ -1,2 +1,5 @@
 # projeto_jogo_ip
-Pontuação = 80 + tempo restante - (10 pontos para cada carta revelada pelo botão)
+Jogo de adivinhar o nome de pessoas famosas por fotos parcialmente cobertas
+
+Grupo: Alef e Elevir
+
